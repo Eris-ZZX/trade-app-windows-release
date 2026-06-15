@@ -1,7 +1,11 @@
-# Trade App Latest Release
+# X-T Android Release
 
-Latest Android arm64 APK for Xiaomi 14.
+This repository only stores the latest installable Android APK and update metadata for X-T.
 
-Version: 2.0.1
+- Version: 2.0.2
+- Build number: 202
+- ABI: arm64-v8a
+- APK: `x-t-2.0.2-arm64-v8a.apk`
+- SHA256: `19186bc4a935b3ba99636f0383d66427e640d7482c0c15b70ccbd2dbe3ce1982`
 
-SHA256: c521a454fe233d0d553f6abd2d2726cb5ba3a87563df1ce936e8444b53dd4150
+No source code is stored in this release repository.
