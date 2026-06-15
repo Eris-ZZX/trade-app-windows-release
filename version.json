@@ -1,9 +1,9 @@
-﻿{
-    "version":  "2.0.0",
-    "build_number":  200,
-    "release_name":  "Trade App 2.0.0 Android arm64",
-    "asset_name":  "trade-app-2.0.0-arm64-v8a.apk",
-    "download_url":  "https://github.com/Eris-ZZX/trade-app-windows-release/raw/main/trade-app-2.0.0-arm64-v8a.apk",
-    "sha256":  "11dda1441e41d47d52a3f3d46dbe84cf08f39ba44d7f84c19d23f8652cb4fa05",
-    "notes":  "优化日志可读性、策略列表移动端布局、账号收益仪表盘卡片显示，并保留最近50条交易记录提升策略页打开速度。"
+{
+  "version": "2.0.1",
+  "build_number": 201,
+  "release_name": "Trade App 2.0.1 Android arm64",
+  "asset_name": "trade-app-2.0.1-arm64-v8a.apk",
+  "download_url": "https://github.com/Eris-ZZX/trade-app-windows-release/raw/main/trade-app-2.0.1-arm64-v8a.apk",
+  "sha256": "c521a454fe233d0d553f6abd2d2726cb5ba3a87563df1ce936e8444b53dd4150",
+  "notes": "???????????????????????????????????50???????????????"
 }
